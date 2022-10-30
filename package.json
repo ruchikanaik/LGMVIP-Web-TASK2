@@ -2,7 +2,7 @@
   "name": "api-call",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ruchikanaik.github.io/LGMVIP-Web-Reactapp",
+  "homepage": "https://github.com/ruchikanaik/LGMVIP-Web-TASK2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
